@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SISTEMA CARDIOVASCULAR
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: MICHELLE
+    family-names: ZAMORA
+    email: l22210432@tectijuana.edu.mx
+    affiliation: INSTITUTO TECNOLOGICO DE TIJUANA
+  - given-names: MARIANA
+    family-names: RIVERA
+    email: L22210427@TECTIJUANA.EDU.MX
+    affiliation: INSTITUTO TECNOLOGICO DE TIJUANA
+abstract: |
+  SISTEMA CARDIOVASCULAR
+keywords:
+  - cardiovascular
+  - corazon
+  - individuo sano o con alguna enfermedad
+license: BSD-2-Clause
+date-released: '2025-05-02'
